@@ -1,4 +1,4 @@
-/* @pjs preload="paper3.jpg,scissor3.jpg,stone.jpg,baoman4.jpg,baomanb2.jpg,baomanp2.jpg"; */
+/* @pjs preload="paper3.jpg,scissor3.jpg,stone3.jpg,baoman4.jpg,baomanb2.jpg,baomanp2.jpg"; */
 PImage photo1, photo2, photo3, photo4, photo5, photo6;
 int choice=0;
 int cchoice=0;
